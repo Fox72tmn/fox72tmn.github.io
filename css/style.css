@@ -50,7 +50,7 @@
 }
 
 .content {
-  width: 100%;
+  width: 100vw;
   min-width: 1170px;
   text-align: center;
 }
