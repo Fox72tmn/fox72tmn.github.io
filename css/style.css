@@ -50,12 +50,13 @@
 }
 
 .content {
-  width: 100vw;
+  width: 100%;
   min-width: 1170px;
   text-align: center;
 }
 
 .banner {
+  width: 100vw;
   height: 590px;
   background-color: #709dca;
 }
